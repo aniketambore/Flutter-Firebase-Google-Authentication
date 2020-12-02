@@ -7,4 +7,4 @@ This Project shows how to implement Google Authentication process in Flutter, us
 - SignIn Silently
 
 ## Preview
-<img src="https://i.ibb.co/whrZHSc/Untitled.gif" width="70%" />
+<img src="https://i.ibb.co/whrZHSc/Untitled.gif" width="50%" />
